@@ -1,4 +1,3 @@
-Forked from https://github.com/lesliesam/react-native-wheel-picker to make it work on RN-v0.49.x
 # react-native-wheel-picker
 [![npm version](http://img.shields.io/npm/v/react-native-wheel-picker.svg?style=flat-square)](https://npmjs.org/package/react-native-wheel-picker "View this project on npm")
 [![npm version](http://img.shields.io/npm/dm/react-native-wheel-picker.svg?style=flat-square)](https://npmjs.org/package/react-native-wheel-picker "View this project on npm")
